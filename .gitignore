@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+questions.db
+.DS_Store
+
+
+
